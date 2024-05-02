@@ -8,7 +8,11 @@ public class BusinessApplication {
 
 	public static void main(String[] args) {
 
+
 		int a=10;
+
+		String s="Hii";
+
 		System.out.println("Tu hai ram tu hai rani tu hai ram");
 
 		SpringApplication.run(BusinessApplication.class, args);
