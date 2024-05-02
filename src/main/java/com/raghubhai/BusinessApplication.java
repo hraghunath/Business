@@ -7,6 +7,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class BusinessApplication {
 
 	public static void main(String[] args) {
+
+		String s="Hii";
 		System.out.println("Tu hai ram tu hai rani tu hai ram");
 		SpringApplication.run(BusinessApplication.class, args);
 	}
