@@ -13,7 +13,11 @@ public class BusinessApplication {
 
 		String s="Hii";
 
+
 		String str="RaghuBhai RaghuBhai RaghuBhai";
+
+		int i=123+345=2345;
+
 
 		System.out.println("Tu hai ram tu hai rani tu hai ram");
 
