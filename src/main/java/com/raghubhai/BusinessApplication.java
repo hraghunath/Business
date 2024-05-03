@@ -13,6 +13,8 @@ public class BusinessApplication {
 
 		String s="Hii";
 
+		String str="RaghuBhai RaghuBhai RaghuBhai";
+
 		System.out.println("Tu hai ram tu hai rani tu hai ram");
 
 		SpringApplication.run(BusinessApplication.class, args);
