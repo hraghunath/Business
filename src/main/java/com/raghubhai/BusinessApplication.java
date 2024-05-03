@@ -13,7 +13,6 @@ public class BusinessApplication {
 
 		String s="Hii";
 
-			String str="chand sitare chand sitare chand sitare ";
 
 		String str="RaghuBhai RaghuBhai RaghuBhai";
 
