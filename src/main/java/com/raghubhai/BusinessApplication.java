@@ -18,6 +18,7 @@ public class BusinessApplication {
 
 		int i=123+345=2345;
 
+			String s="CHANDSITARE";
 
 		System.out.println("Tu hai ram tu hai rani tu hai ram");
 
